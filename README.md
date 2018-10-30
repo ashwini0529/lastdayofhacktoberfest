@@ -6,3 +6,4 @@ This repo is for last day commits for hacktoberfest
 
 ## [French version here](./README.FR.md)
 ## [Thai version here](./README.TH.md)
+## [Spanish version here](./README.ES.md)
