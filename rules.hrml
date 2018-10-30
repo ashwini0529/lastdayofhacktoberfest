@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#000000">
+    <title>Rules</title>
+  </head>
+  <body>
+       <div class="container">
+            <span>
+              <h1>Rules</h1>
+              <p>To get a shirt, you must make five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself (not to your own repo). PRs reported by maintainers as spam or that are automated will be marked as invalid and won't count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).</p>
+            </span>
+       </div>
+  </body>
+</html>
