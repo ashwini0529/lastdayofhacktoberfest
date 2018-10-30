@@ -21,6 +21,10 @@ h1 {
     color: #ff9a56;
 }
 
+p {
+    font-size: 1.1em;
+}
+
 a {
     color: #21ffff;
     padding: 10px 25px;
@@ -35,7 +39,7 @@ header {
 }
 
 section {
-    font-size: 1.5em;
+    margin: 1% 10%;
 }
 
 footer {
