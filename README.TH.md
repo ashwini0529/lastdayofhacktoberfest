@@ -4,4 +4,3 @@
 =======
 repo นี้เป็นวันสุดท้ายสำหรับ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
-## [Thai version here](./README.TH.md)
