@@ -1,4 +1,4 @@
-# LastDayOf Hacktoberfest
+# Last Day Of Hacktoberfest
 
 T'es pas arrivé à l'objectif des 5 PR? Vas-y! :+1: :two_hearts:
 =======
