@@ -1,3 +1,3 @@
-## LastDayOfHacktoberfest
+# LastDayOf Hacktoberfest
 
-Didn't reach the 5 PR mark? Go ahead!
+This repo is for last day comitts for hacktoberfest
